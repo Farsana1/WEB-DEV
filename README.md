@@ -1,2 +1,2 @@
 # WEB-DEV
-This is a simple website
+This is a simple website using bootstrap
